@@ -1,7 +1,7 @@
 ### Code education Full Cycle
 
 How to use this Docker image of Go Message?
-```docker run -it --rm --name tonnytg/codeeducation```
+```docker run -it --rm --name codeeducation tonnytg/codeeducation```
 <br />
 
 ### Make yourself? 

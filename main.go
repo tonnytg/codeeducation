@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main () {
-	fmt.Println("Code.education Rocks!")
+	fmt.Println("Le's Go")
 	fmt.Println("https://linkedin.com/in/thomacelli")
 }
